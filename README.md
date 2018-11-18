@@ -1,4 +1,4 @@
-# new_mac_changer.py
+# MAC Changer
 mac changer for linux
 
 usage : python new_mac_changer.py -i INTERFACE -m NEW_MAC_ADDRES
